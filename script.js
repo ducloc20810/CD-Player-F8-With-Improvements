@@ -94,6 +94,43 @@ const app = {
       image:
         "https://avatar-nct.nixcdn.com/song/2017/12/06/8/d/5/c/1512531826989.jpg",
     },
+
+    {
+      name: "Quan tài hư",
+      singer: "Quang Tèo, Young Milo, Ngài, Quỷ Đá",
+      path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui1014/QuanTaiHu-YoungMilo-6996488.mp3?st=gwGWAalsYEfXafiVdSGnhQ&e=1645525017&download=true",
+      image: "https://i.ytimg.com/vi/qDHWWOzWWHA/maxresdefault.jpg",
+    },
+
+    {
+      name: "Alaba Trap",
+      singer: "Quang Tèo, MCK",
+      path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui1015/AlabaTrap-TommyTeoMCKRPT-6998714.mp3?st=1EphZcwAYPS6j9Y0fW9E-g&e=1645417427&download=true",
+      image:
+        "https://i1.sndcdn.com/artworks-nNtP5k1kIf8ayBz6-l3BN1g-t500x500.jpg",
+    },
+
+    {
+      name: "Anh không hiểu",
+      singer: "Quang Tèo, Sol7",
+      path: "https://srv18.y2mate.is/download?file=072c551774079c201fadb40b4239fcc2251003&token=4vBGm0FpWY4kuGQZB60-7A&expires=1645453436380&s=xUOf-hUXMtf1KBSISmbPbg",
+      image: "https://i.scdn.co/image/ab67616d0000b2734f071a07fd7af752751eddfa",
+    },
+
+    {
+      name: "DWMT",
+      singer: "Quang Tèo, Lee7, HungPhuc",
+      path: "https://154.82.111.99.sslip.io/dl2/sLfbKZpB-rf-kEF9uBlK2pH5fsQMk7uz_gDpDoR4f-MUYMS5MIdqVqfyEiGOawCz860wOFxx8LsfKP3BGVcavI0L3qPLTjYdcOf1kdGPihOLvwYEbvQVAEU9YXFOgR4SXYtsZJNDFy7QLGgHRcYqpEI5ClAR5z0WoKQecWFBloZDYoGTtvm5XJjRtHL5HgXMMhgOler807T3VHTV2JMinwngqDJm7YFaCvaghQwcxP4pu1p2xhnWoTZYo-6A2af-h6kEjceWBPdPQ-bJpOwgWJF49iYGIJn-PdRZ0IReOeivFrLTxeLrtLlkdaw_qbKyLqNUNM8-yd5Ozx1a6mgBV_ROsiXeNboE-KiUSXanLgA3UaO-fSu2gHyck8-M3nIYfE1OJOR5wpXMKVgaaLv_U40Xx8crDtZRybrXtQ2qJKrI_H02YBQr2KG2_9XnjNS5v_e_TycPnZHLJcRUWgcZxSEMlaXXEBWcN_l8oPV4sps8Cixor0LLHIvVJK60XU_veBZzvk2_qKWDEhYxHQtFthU7M0FTMrcc_NlIWYjMRF1zhTpStIuAOF9rjI2yh1nSny3FI9YSD1g919o3dgJ8dSQs-FbUDTfFH6A4eb3vkD7hnDNJ4nsRQzf9jqupPP5B_OuHfiNmbwbrViYRKcd-Kr8jVQFcfau2R5VsvCg_Kgg7Nd2fUR-drltR9FRBSfdKvFzOYdZoWPv59Lj3dxh5_BuL3K3S5IC3EN-oy_D9mfVtemzZCXGW4TiCtjNDO3JZSlbuA5mvykEEtARZr3HbMUKe5HpnCUuqgQDHgXXla0krmEoIzXdRE61XUubkIJERzeEZKQXDPk202VIZqLho_mRG2WtVdOXW0TQjS5ydK02GLjjc1H_XvNDmUa6CVrW_RZbhOp4jtGpNJd4E4SnWd3CS67ABiSbX1Hj8DpR8431QfspkNXWP2sXT2y0xoExVJ6O_MFjx_fEHn00DHPtHF0mTFxkDAeM2sX9P6C6NJJ72em8NU2hY2I7vb5NxtBO2qeL6fLMk7LzvFiP_vxIyBGra04ip5RllDwn-MptcRAgfwrOfb0fxBbl56K6AhUUdChdcxBOR7olj50nj_cjFFJ9LzIcnQzBUNWhqgmn5H-MWseet_87HkvhjLrGs6frgw00KGDYLrNwFEWbItNyxSrbgHbOtnjN4aGqqXwhivaHEJFsvRvzjGpFCW0pI2WGI6a9j14rGid70z3CgrSR2L4K3S64QBbVsToP7AmhoIV6L_wJEf67Ly-2Shy7C5_o/r78EARUz",
+      image: "https://i.scdn.co/image/ab67616d0000b27352feb44becbcc9a5793f7629",
+    },
+
+    {
+      name: "Let's go",
+      singer: "Quang Tèo, Raf, 2000 Boys",
+      path: "https://srv4.y2mate.is/download?file=bc639071ba363f6c8b9eaf2db52da984251003&token=vnz7jjMxAkyHB7EWBpHQxg&expires=1645453918755&s=-vtG6hX5uu0PndRezKW10A",
+      image:
+        "https://photo-resize-zmp3.zadn.vn/w360_r1x1_jpeg/avatars/f/f/c/a/ffca09e27483671e67321b4c66d5e5b1.jpg",
+    },
   ],
 
   //   Render function
